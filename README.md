@@ -1,1 +1,1 @@
-As a Spanish data scientist and data engineer studying at Las Palmas University in the Canary Islands, I am dedicated to exploring the field of data engineering. My GitHub account showcases my passion and skills, as well as my various projects and research in the field.
+I am a Spanish data scientist and data engineer studying at Las Palmas University in the Canary Islands, I am dedicated to exploring the field of data engineering. My GitHub account showcases my passion and skills, as well as my various projects and research in the field.
